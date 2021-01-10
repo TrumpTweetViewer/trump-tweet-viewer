@@ -7,7 +7,7 @@ This extension also redirects attempts to view Trump's twitter homepage to the F
 
 ## Chrome Extension Store
 
-This extension is available on the Chrome extension store at: [here](todo.com).
+This extension is available on the Chrome extension store at: [here](https://chrome.google.com/webstore/category/extensions).
 
 ## Sideload
 
@@ -17,4 +17,4 @@ You can also sideload this extension by following the following directions:
 2. Turn on developer mode
 3. Download the zip for this github repo and then unzip the files
 4. Go back to chrome://extensions and click on "Load Unpacked"
-5. Choose the top level directory. 
+5. Choose the top level directory
