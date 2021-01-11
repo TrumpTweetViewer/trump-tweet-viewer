@@ -7,7 +7,7 @@ function sendQuery() {
       if (urlLowerCase.includes("twitter.com/realdonaldtrump/status/")) {
         // Re-direct to tweet picture
         let tweetId = urlLowerCase.split("twitter.com/realdonaldtrump/status/")[1].split("?")[0];
-        let newUrl = "https://media-cdn.factba.se/realdonaldtrump-twitter/"+tweetId+".jpg";
+        let newUrl = "https://raw.githubusercontent.com/TrumpTweetViewer/trump-tweet-images/master/img/"+tweetId+".jpg";
         chrome.tabs.update({url: newUrl});
       } else if (urlLowerCase.includes("twitter.com/realdonaldtrump")) {
         // Re-direct to tweet database
