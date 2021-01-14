@@ -12,6 +12,6 @@
    "128": "images/icon128.png"
   },
   "permissions": [
-   "activeTab", "tabs", "<all_urls>"
+    "tabs", "<all_urls>"
    ]
 }
