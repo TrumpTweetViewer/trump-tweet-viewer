@@ -7,7 +7,7 @@ This extension also redirects attempts to view Trump's twitter homepage to the F
 
 ## Chrome Extension Store
 
-This extension is available on the Chrome extension store at: [here](https://chrome.google.com/webstore/category/extensions).
+This extension is available on the Chrome extension store [here](https://chrome.google.com/webstore/detail/trump-tweet-viewer/cfimfefnjbkphfjbhhblnppejfkkgcef?hl=en).
 
 ## Sideload
 
